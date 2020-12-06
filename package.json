@@ -1,0 +1,23 @@
+{
+  "name": "DaMou-Frontend-Node",
+  "version": "0.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.1.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.4",
+    "pm2": "^4.4.0",
+    "pug": "^2.0.4",
+    "puppeteer": "^5.3.0",
+    "vue": "^2.6.11",
+    "vue-server-renderer": "^2.6.11"
+  }
+}
